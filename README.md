@@ -4,19 +4,8 @@
 
 ---
 
-## 📋 Descripción General
-Acá contás un poco más el contexto. Qué problema resuelve, por qué lo hiciste y cuál es el objetivo principal del código.
+## Estructura del Proyecto
 
-## 📂 Estructura del Proyecto
-Explicá brevemente qué hay en tus carpetas para que no sea un misterio:
-
-*   `src/` o raíz: Archivos principales y finales del proyecto.
-*   `precursores/`: Archivos primitivos y scripts iniciales que sirvieron de base para desarrollar la lógica final.
-*   `data/`: (Si tenés) Archivos de entrada, bases de datos o inputs necesarios.
-
-## Tecnologías Utilizadas
-*   **Lenguaje:** Python / .
-*   **Librerías clave:** (Ej: Biopython, Pandas, NumPy, Pandas, etc.)
 
 ## Cómo Ejecutarlo
 
